@@ -1,7 +1,7 @@
 # Termux Fonts Installer
 Um instalador simples de fontes para Termux. 
 📥 **Instalação  1.**
-Dê permissão de armazenamento ao Termux  No Termux, execute:  termux-setup-storage  Quando o Android solicitar permissão, toque em Permitir.  2. **Copie o "install.sh" para o armazenamento compartilhado**
+Dê permissão de armazenamento ao Termux  No Termux, execute:  ```termux-setup-storage```  Quando o Android solicitar permissão, toque em Permitir.  2. **Copie o "install.sh" para o armazenamento compartilhado**
 Baixe o arquivo "install.sh" do código-fonte deste repositório e coloque-o no armazenamento compartilhado do Android.  Por exemplo:  /storage/emulated/0/Download/  **3. Copie o arquivo para o diretório do Termux**
 No Termux:  ```cp /storage/emulated/0/Download/install.sh ~/```  
 
